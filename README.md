@@ -1,0 +1,1 @@
+A collection of windows versions of SDL libraries to compile with MSVC.
